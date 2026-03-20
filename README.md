@@ -10,7 +10,7 @@ Unlike a centralised system where a single server hosts the main repository (Dev
 
 Git helps you:
 
-1.1. **Track changes over time** – Records every modification you make, allowing you to revisit earlier versions if needed. It basically records the history of your project. 
+1.1. **Track changes over time** – Records every change you make, allowing you to revisit earlier versions. It basically records the history of your project. 
 1.2. **Work safely** – If something breaks, you can revert to a stable version without losing your work. You can branch out, revert or edit.  
 1.3. **Collaborate efficiently** – Multiple individuals can work on the same project simultaneously without overwriting each other’s changes.
 
